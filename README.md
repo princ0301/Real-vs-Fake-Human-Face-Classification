@@ -1,5 +1,4 @@
 # Real vs Fake Face Classification
-
 ![Alt text](demo.png)
 
 ## Overview
@@ -12,8 +11,6 @@ Simply upload the image, and the machine learning model will evaluate it and pro
 
 📊 Getting the Data and EDA Process
 The dataset used was NVIDIA-140K, which contains 70K real and 70K AI-generate images.
-
-![Alt text](img-1.png)
 
 ### Features
 
