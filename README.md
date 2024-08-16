@@ -1,5 +1,7 @@
 # Real vs Fake Face Classification
 
+![Alt text](demo.png)
+
 ## Overview
 
 Real vs Fake Face Classification is a powerful tool that leverages deep learning to distinguish between real human faces and AI-generated (fake) ones. In today's world, where AI-generated images are becoming increasingly sophisticated, this tool helps ensure the authenticity of visual content. For instance, if someone were to create a fake image by inserting your face into a compromising situation or photoshopping it onto someone else's body, this tool will accurately classify the image as fake, thus protecting your reputation.
